@@ -8,7 +8,6 @@ import { StyleSheet } from 'react-native';
 import { View, Text} from 'react-native';
 import { createNativeStackNavigator } from '@react-navigation/native-stack';
 import { createBottomTabNavigator } from '@react-navigation/bottom-tabs';
-import { color } from 'react-native-elements/dist/helpers';
 import Icon from 'react-native-vector-icons/MaterialIcons';
 import { onAuthStateChanged, User } from 'firebase/auth';
 import { useState, useEffect } from 'react';

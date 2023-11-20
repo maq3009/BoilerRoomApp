@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "BoileRoomApp",
-    "slug": "BoileRoomApp",
+    "name": "BoilerRoomApp",
+    "slug": "BoilerRoomApp",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -18,6 +18,8 @@
       "supportsTablet": true
     },
     "android": {
+      "package": "com.maq3009.BoilerRoomApp",
+      "versionCode": 1,
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"

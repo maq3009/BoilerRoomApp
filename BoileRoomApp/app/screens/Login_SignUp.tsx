@@ -3,7 +3,6 @@ import React from 'react'
 import { useState } from 'react';
 import { FIREBASE_AUTH } from '../../firebaseConfig';
 import { TextInput, StyleSheet, Image, Button } from 'react-native'
-import { color } from 'react-native-elements/dist/helpers';
 import { signInWithEmailAndPassword } from 'firebase/auth';
 import { createUserWithEmailAndPassword } from 'firebase/auth';
 import { ActivityIndicator } from 'react-native-paper';
