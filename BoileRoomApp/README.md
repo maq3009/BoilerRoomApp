@@ -8,3 +8,6 @@ Things installed:
 -added storage to firebase
 -added api keys to firebaseConfig.ts which I just created.
 -added app and screens folder to BoileRoomApp folder
+-npm install @react-navigation/native
+-npm install @react-navigation/native-stack
+-
